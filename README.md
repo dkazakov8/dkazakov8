@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
 </h3>
 
+<h3>My latest Habr posts</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Сервировка сжатых файлов и использование CDN](https://habr.com/ru/post/507402/)
 - [Генерация вспомогательных файлов: реэкспорт, экспортный объект, валидаторы из моделей — можно ли подружить с Webpack?](https://habr.com/ru/post/507294/)
