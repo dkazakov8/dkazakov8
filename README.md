@@ -23,6 +23,18 @@
   <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
 </h3>
 
+<p>
+Hello, I'm a developer who strives for the best code architecture for Enterprise-level web applications. Currently I live in Armenia (a small country surrounded by beautiful mountains) and am preparing to move to Australia or the UK. I have a nice job as a Frontend architect in a relatively small but fast-growing and promising company FoodRocket (a food-tech start-up from the USA).
+</p>
+
+<p>
+I was happy to work in more than 10 companies since 2004, creating lots of enterprise-level solutions, frameworks and coding approaches, and seeing the development of Frontend technologies since IE 5.5 & Netscape Navigator. Current technologies are fascinating and give us opportunities to create complex PWA SPA applications for a huge amount of devices, so I try my best to ride a wave and create solutions that futher expand reliability of apps and our coding experience.
+</p>
+
+<p>
+Currently I'm working on a higly scalable and flexible architecture based on React as a DOM-renderer and MobX as a reactive state manager. If you're interested feel free to browse my repos to find some clues 👀. The indispensable parts are code-generation (validators for API, reexport files, themes etc.), layered composition (api, actions, store, side-effects, localization) divided by 3 sub-levels (global, by page and local in components) and a shared access to every part of that. My 18-years expirience is crystallized in that approach, but goes aside from common practice like SOLID, immutability and DI. They are completely obsolete in my opinion (but I used them in lots of projects in the past, so my thinking is not withous a ground). Let's move forward and try this.
+</p>
+
 <h3>My latest Habr posts</h3>
 
 <ul>
