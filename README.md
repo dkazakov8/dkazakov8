@@ -24,9 +24,38 @@
 </h3>
 
 <h3>My latest Habr posts</h3>
-<!-- BLOG-POST-LIST:START -->
-- [Сервировка сжатых файлов и использование CDN](https://habr.com/ru/post/507402/)
-- [Генерация вспомогательных файлов: реэкспорт, экспортный объект, валидаторы из моделей — можно ли подружить с Webpack?](https://habr.com/ru/post/507294/)
-- [Webpack: параллельная сборка изоморфного приложения с перезагрузкой браузера](https://habr.com/ru/post/506636/)
-- [Архитектура SPA-приложения биржи в 2019 году](https://habr.com/ru/post/450360/)
-<!-- BLOG-POST-LIST:END -->
+
+<ul>
+  <li>
+    <a href="https://habr.com/ru/post/507402/" target="_blank">
+      Сервировка сжатых файлов и использование CDN
+    </a>
+    (<a href="https://habr.com/ru/post/507402/" target="_blank">
+      repository
+    </a>)
+  </li>
+  <li>
+    <a href="https://habr.com/ru/post/507294/" target="_blank">
+      Генерация вспомогательных файлов: реэкспорт, экспортный объект, валидаторы из моделей — можно ли подружить с Webpack?
+    </a>
+    (<a href="https://habr.com/ru/post/507402/" target="_blank">
+      repository
+    </a>)
+  </li>
+  <li>
+    <a href="https://habr.com/ru/post/506636/" target="_blank">
+      Webpack: параллельная сборка изоморфного приложения с перезагрузкой браузера
+    </a>
+    (<a href="https://github.com/dkazakov8/habr_webpack-isomorphic" target="_blank">
+      repository
+    </a>)
+  </li>
+  <li>
+    <a href="https://habr.com/ru/post/450360/" target="_blank">
+      Архитектура SPA-приложения биржи в 2019 году
+    </a>
+    (<a href="https://github.com/dkazakov8/habr_exchange" target="_blank">
+      repository
+    </a>)
+  </li>
+</ul>
