@@ -24,7 +24,7 @@
 </h3>
 
 <p>
-Hello, I'm a developer who strives for the best code architecture for Enterprise-level web applications. Currently I live in Armenia (a small country surrounded by beautiful mountains) and am preparing to move to Australia or the UK. I have a nice job as a Frontend architect in a relatively small but fast-growing and promising company FoodRocket (a food-tech start-up from the USA).
+Hello, I'm a developer who strives for the best code architecture for Enterprise-level web applications.
 </p>
 
 <p>
