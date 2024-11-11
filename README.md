@@ -32,8 +32,7 @@ I was happy to work in more than 10 companies since 2004, creating lots of enter
 </p>
 
 <p>
-Currently I'm working on a higly scalable and flexible architecture based on React as a DOM-renderer and MobX as a reactive state manager. If you're interested feel free to browse my repos to find some clues 👀. The indispensable parts are code-generation (validators for API, reexport files, themes etc.), layered composition (api, actions, store, side-effects, localization) divided by 3 sub-levels (global, by page and local in components) and a shared access to every part of that. My 18-years expirience is crystallized in that approach, but goes aside from common practice like SOLID, immutability and DI. They are completely obsolete in my opinion (but I used them in lots of projects in the past, so my thinking is not withous a ground). Let's move forward and try a new one.
-</p>
+Currently I'm working on a higly scalable and flexible architecture based on React as a DOM-renderer and MobX as a reactive state manager. If you're interested feel free to browse my repos to find some clues 👀. The indispensable parts are code-generation (validators for API, reexport files, themes etc.), layered composition (api, actions, store, side-effects, localization) divided by 3 sub-levels (global, by page and local in components) and a shared access to every part of that.
 
 <h3>My latest Habr posts</h3>
 
