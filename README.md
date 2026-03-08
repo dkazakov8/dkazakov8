@@ -1,6 +1,6 @@
 <h1 align="center">Dmitry Kazakov</h1>
 <div align="center">
-  <i>Infrastructure-first frontend engineering, shaped before and beyond modern frameworks</i>
+  <i>Infrastructure-first frontend engineering, refined in production</i>
   <br /><br />
   <a href="https://www.codewars.com/users/dkazakov8" target="_blank">
     <img src="https://www.codewars.com/users/dkazakov8/badges/small?theme=dark" alt="Codewars badge" />
@@ -8,12 +8,8 @@
 </div>
 <br />
 
-I design and build frontend infrastructure and extract long-proven enterprise solutions into focused open source libraries.
+I build frontend infrastructure for enterprise projects. The open source code in this GitHub is mostly a byproduct of that work: internal solutions extracted from production systems, then cleaned up and documented so they can be reused by others.
 
-My work started long before modern frameworks became dominant, in large and long-lived systems where architectural clarity and long-term maintainability mattered more than trends. Many of the ideas here were shaped in production and reused across multiple projects.
+My approach was shaped in large, long-lived systems where clarity, reliability, and maintainability mattered more than trends. I prefer small, strict, deeply typed building blocks with clear responsibility and predictable behavior.
 
-I strongly believe that core infrastructure should do very little, but do it exceptionally well. Clear responsibility, explicit configuration, strong static typing, and predictable behavior form the baseline, independent of any framework.
-
-Reactive programming (Proxy or Signals-based) , where it appears, is a practical tool: a way to reduce boilerplate, improve readability, and update only the parts of the system that actually depend on a given piece of data.
-
-This GitHub contains infrastructure building blocks - routing, modular composition, cross-framework view-model abstractions, and tooling - developed in enterprise environments and refined as open source.
+This repository contains routing, forms, async primitives, code generation, modular architecture tools, and cross-framework infrastructure.
